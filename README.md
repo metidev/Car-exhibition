@@ -14,15 +14,17 @@ This is a Car Exhibition template website built using Bootstrap, JavaScript, HTM
 
 To use this Car Exhibition template website, follow these steps:
 
-1. Clone the repository to your local machine using the following command: ```https://github.com/metidev/Car-exhibition.git```
+1. Clone the repository to your local machine using the following command: 
+```
+git clone https://github.com/metidev/Car-exhibition.git
+```
+3. Navigate to the project directory.
 
-2. Navigate to the project directory.
+4. Open the `index.html` file in your web browser to view the website locally.
 
-3. Open the `index.html` file in your web browser to view the website locally.
+5. Customize the content, images, and styles in the HTML, CSS, and JavaScript files to match the requirements of your specific car exhibition event.
 
-4. Customize the content, images, and styles in the HTML, CSS, and JavaScript files to match the requirements of your specific car exhibition event.
-
-5. Host the website on a web server to make it accessible to a broader audience.
+6. Host the website on a web server to make it accessible to a broader audience.
 
 ## Usage
 
